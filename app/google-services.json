@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "107719730629",
+    "firebase_url": "https://trikonamithiya.firebaseio.com",
+    "project_id": "trikonamithiya",
+    "storage_bucket": "trikonamithiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107719730629:android:95b299534d66b136",
+        "android_client_info": {
+          "package_name": "com.aroshana.trikonamithiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107719730629-agua8i3vqiclt8p5medmpll7a91a6vva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aroshana.trikonamithiya",
+            "certificate_hash": "cb7644c25f1a7f97e835431fd84cb1775b6cf406"
+          }
+        },
+        {
+          "client_id": "107719730629-l94ookohde3j28pscc9hhuoj0fdqp5p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ii6ckCdgrKtKaB-mTC2rjOBbQ9Dqo-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107719730629-l94ookohde3j28pscc9hhuoj0fdqp5p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

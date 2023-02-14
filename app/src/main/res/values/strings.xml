@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trikonamithiya</string>
+    <string name="desc1">Image1</string>
+    <string name="desc2">Image2</string>
+    <string name="desc3">Image3</string>
+    <string name="desc4">Image4</string>
+    <string name="desc5">Image5</string>
+    <string name="desc6">Image6</string>
+    <string name="di1">img1</string>
+    <string name="di2">img2</string>
+    <string name="di3">img3</string>
+    <string name="di4">img4</string>
+    <string name="di5">img5</string>
+    <string name="ela">.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

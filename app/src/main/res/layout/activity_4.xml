@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgg"
+    tools:context=".Activity4">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView3"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/di1"
+            android:paddingTop="200dp"
+            app:srcCompat="@drawable/rawu" />
+            <ImageView
+                android:id="@+id/imageView2"
+                android:paddingTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="658dp"
+                android:contentDescription="@string/di2"
+                app:srcCompat="@drawable/eka" />
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="658dp"
+                android:contentDescription="@string/di3"
+                app:srcCompat="@drawable/deka" />
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="658dp"
+                android:contentDescription="@string/di4"
+                app:srcCompat="@drawable/thuna" />
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="658dp"
+                android:contentDescription="@string/di5"
+                app:srcCompat="@drawable/hatara" />
+        </LinearLayout>
+
+</ScrollView>

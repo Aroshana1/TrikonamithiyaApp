@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\be03d86962179b1fde3146a22df0c4c8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\adcbb289b49cbcafc23f3f6b0046ee6f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b1541597512060924990ee5e06a46450\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\7c9c0019f086660e5ce197bf8399aaba\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\a4fec4b6377ed389a50e42f5bbf2a86a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\646f435e6a06ef2586c5c27c4552f60f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\666e2cecd94813d9fe74da0255fbede8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\b00d3bba47306e0941ea439fc8a0216f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\63acea7dd533d1b53bd82c2571bd2bc9\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\c65df9431fb510f07df2647fac587ed9\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\11d7962de73e41259af3f05ac1a51357\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\cd07e6f5c1b05d5e0be973f740ff24f3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c66f8e2925a6d4b8c2168b8a2f48ed17\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5b8b476696b15cee274a9eb30ffcdb09\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\a75b7134e04b1171655ac3d283c5062f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\8267ec6d4e60e4568df609e9ddd0ac96\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\bf05e49f311be52b62896502834f9672\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\57413c230f7eb95f4a00a025852b7f36\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\fc77ced41dbeef38d358eee112e82f10\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\7def49d7a576a0464f460fc7fe614bee\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\e722d1d46ecef89302fb7f9fe9d55a21\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\757d7c1fd5c6dbeeee811dd48ec67787\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82230a2368f3b6b9c9c829ae5100e689\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\85900a5870cc43f43346c434ef9a0c3e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6cb02f76345983daa7a298ad84d5472a\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\adcbb289b49cbcafc23f3f6b0046ee6f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\adcbb289b49cbcafc23f3f6b0046ee6f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.aroshana.trikonamithiya.MainActivity
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.aroshana.trikonamithiya.Activity2
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:19:19-44
+activity#com.aroshana.trikonamithiya.Activity3
+ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml:20:19-44
+uses-sdk
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\be03d86962179b1fde3146a22df0c4c8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\be03d86962179b1fde3146a22df0c4c8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\adcbb289b49cbcafc23f3f6b0046ee6f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\adcbb289b49cbcafc23f3f6b0046ee6f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b1541597512060924990ee5e06a46450\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b1541597512060924990ee5e06a46450\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\7c9c0019f086660e5ce197bf8399aaba\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\7c9c0019f086660e5ce197bf8399aaba\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\a4fec4b6377ed389a50e42f5bbf2a86a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\a4fec4b6377ed389a50e42f5bbf2a86a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\646f435e6a06ef2586c5c27c4552f60f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\646f435e6a06ef2586c5c27c4552f60f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\666e2cecd94813d9fe74da0255fbede8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\666e2cecd94813d9fe74da0255fbede8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\b00d3bba47306e0941ea439fc8a0216f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\b00d3bba47306e0941ea439fc8a0216f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\63acea7dd533d1b53bd82c2571bd2bc9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\63acea7dd533d1b53bd82c2571bd2bc9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\c65df9431fb510f07df2647fac587ed9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\c65df9431fb510f07df2647fac587ed9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\11d7962de73e41259af3f05ac1a51357\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\11d7962de73e41259af3f05ac1a51357\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\cd07e6f5c1b05d5e0be973f740ff24f3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\cd07e6f5c1b05d5e0be973f740ff24f3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c66f8e2925a6d4b8c2168b8a2f48ed17\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\c66f8e2925a6d4b8c2168b8a2f48ed17\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5b8b476696b15cee274a9eb30ffcdb09\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5b8b476696b15cee274a9eb30ffcdb09\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\a75b7134e04b1171655ac3d283c5062f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\a75b7134e04b1171655ac3d283c5062f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\8267ec6d4e60e4568df609e9ddd0ac96\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\8267ec6d4e60e4568df609e9ddd0ac96\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\bf05e49f311be52b62896502834f9672\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\bf05e49f311be52b62896502834f9672\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\57413c230f7eb95f4a00a025852b7f36\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\57413c230f7eb95f4a00a025852b7f36\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\fc77ced41dbeef38d358eee112e82f10\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\fc77ced41dbeef38d358eee112e82f10\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\7def49d7a576a0464f460fc7fe614bee\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\7def49d7a576a0464f460fc7fe614bee\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\e722d1d46ecef89302fb7f9fe9d55a21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\e722d1d46ecef89302fb7f9fe9d55a21\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\757d7c1fd5c6dbeeee811dd48ec67787\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\757d7c1fd5c6dbeeee811dd48ec67787\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82230a2368f3b6b9c9c829ae5100e689\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\82230a2368f3b6b9c9c829ae5100e689\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\85900a5870cc43f43346c434ef9a0c3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\85900a5870cc43f43346c434ef9a0c3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6cb02f76345983daa7a298ad84d5472a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Aroshana\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6cb02f76345983daa7a298ad84d5472a\AndroidManifest.xml:20:5-44
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		ADDED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
+		INJECTED from E:\System_Files (F)\android4\Soldier Dave\Trikonamithiya\app\src\main\AndroidManifest.xml
